@@ -13,4 +13,3 @@ class unogame:
                 player.append(self.deck.pop())
     def play_card(self,card):
         if card in self.hand[self.current_player]:
-            self
